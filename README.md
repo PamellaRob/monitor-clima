@@ -158,7 +158,7 @@ monitor-clima/
 ├── .env.example         # Modelo das variáveis de ambiente
 ├── .streamlit/
 │   └── config.toml      # Tema claro do Streamlit
-└── docs/img/            # Capturas de tela usadas neste README
+└── docs/                # Capturas de tela usadas neste README
 ```
 
 ## Instalação, configuração e execução
@@ -172,7 +172,7 @@ monitor-clima/
 ### 1. Baixar o projeto e instalar as bibliotecas
 
 ```bash
-git clone <link-do-repositorio>
+git clone <[link-do-repositorio](https://github.com/PamellaRob/monitor-clima.git)>
 cd monitor-clima
 python -m venv venv
 ```
