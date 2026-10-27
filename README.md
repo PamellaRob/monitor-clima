@@ -172,7 +172,7 @@ monitor-clima/
 ### 1. Baixar o projeto e instalar as bibliotecas
 
 ```bash
-git clone [link-do-repositorio](https://github.com/PamellaRob/monitor-clima.git)
+git clone https://github.com/PamellaRob/monitor-clima.git
 cd monitor-clima
 python -m venv venv
 ```
