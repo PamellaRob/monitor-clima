@@ -28,11 +28,11 @@ O objetivo é demonstrar, na prática, a integração entre uma interface gráfi
 
 | Painel | Histórico |
 |---|---|
-| ![Painel](docs/img/painel.png) | ![Histórico](docs/img/historico.png) |
+| ![Painel](docs/painel.png) | ![Histórico](docs/historico.png) |
 
 | Ranking | Cidades |
 |---|---|
-| ![Ranking](docs/img/ranking.png) | ![Cidades](docs/img/cidades.png) |
+| ![Ranking](docs/ranking.png) | ![Cidades](docs/cidades.png) |
 
 ## Tecnologias utilizadas
 
