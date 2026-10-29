@@ -239,3 +239,7 @@ Ele coleta o clima a cada 15 minutos. Pare com `Ctrl + C`.
 - O arquivo `.env` contém chaves privadas e não faz parte do repositório.
 - A chave *secret* do Supabase dá acesso total ao banco e deve ficar apenas no servidor da aplicação, nunca em código público.
 - Os dados de clima vêm da [Open-Meteo](https://open-meteo.com), que é gratuita para uso não comercial.
+
+
+## Vídeo explicativo
+🎥 [Clique para acessar o vídeo](https://drive.google.com/file/d/13irtBagwUYNq29N1Cd8Y6kq0y3YmxTof/view?usp=drive_link)
